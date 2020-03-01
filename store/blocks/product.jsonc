@@ -90,9 +90,8 @@
 
 "sku-selector": {
     "props": {
-        "visibility": "always", 
       "initialSelection": "empty",
-      "hideImpossibleCombinations": false,
+      "visibility": "always", 
        "showVariationsErrorMessage": true
     }
   },
