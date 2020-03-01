@@ -91,7 +91,7 @@
 "sku-selector": {
     "props": {
       "initialSelection": "empty",
-      "ShowValueForVariation": "all",
+      "showValueForVariation": "all",
        "showVariationsErrorMessage": true
     }
   },
