@@ -44,6 +44,7 @@
     },
     "children": [
       "product-name",
+      "product-identifier.product",
        "product-price",
         "flex-layout.row#qty-sku",
         "shipping-simulator",
@@ -55,12 +56,6 @@
     "props": {
       "showSKU": true,
       "showBrandName": true
-    }
-  },
-
-"product-identifier.product": {
-    "props": {
-      "product-identifier": 1
     }
   },
   
