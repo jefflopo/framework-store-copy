@@ -38,7 +38,7 @@
   ]
 },
       
-      "product-images": {
+"product-images": {
     "props": {
       "displayThumbnailsArrows": true
     }
@@ -91,7 +91,7 @@
 "sku-selector": {
     "props": {
       "initialSelection": "empty",
-      "showValueForVariation": "none",
+      "showVariationsLabels": "true",
        "showVariationsErrorMessage": true
     }
   },

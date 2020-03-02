@@ -12,7 +12,7 @@
         ]
   },
     "rich-text": {
-          "props": {
+          "props": { 
             "text": "**Hello, World!**",
             "textPosition": "RIGHT"
           }
