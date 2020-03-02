@@ -90,7 +90,7 @@
 
 "sku-selector": {
     "props": {
-      "initialSelection": "complete",
+      "initialSelection": "image",
       "showVariationsLabels": "true",
        "showVariationsErrorMessage": true
     }
